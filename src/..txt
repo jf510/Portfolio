@@ -1,0 +1,10 @@
+PORTFOLIO OUTLINE
+
+1. App.js
+    - This contains the routes and the background image.
+
+2. Home.js
+    - This contains the AboutMe and the navbar.
+
+3. Projects
+    - This is where i'll show my projects. There will be cards or modals that contain a picture/snapshot/video of the app, a link to the deployed website, and a link to the github repo.

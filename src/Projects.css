@@ -1,0 +1,28 @@
+.projects {
+    display: flex;
+    background:rgba(0, 0, 0, 0.4);
+    border-radius: 30px;
+    align-items: center;
+    padding-left: 15vw;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+
+}
+
+.web2__projectsLeft {
+    flex: 0.5; 
+    margin-left: 40px;
+}
+
+.web2__projectsRight {
+    flex: 0.5;
+    margin-right: 60px;
+   
+}
+
+
+
+
+

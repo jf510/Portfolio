@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    padding-top: 10px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    padding-left: 35vw;
+    background-color: none;
+    z-index: 100;
+    width: 100%;
+}
+
+
+
+.btn {
+  color: white;
+  text-decoration: none;
+  background:rgba(0, 0, 0, 0.6);
+  padding:10px 20px;
+  font-size:12px;
+  font-weight: 800;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}

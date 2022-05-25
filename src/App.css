@@ -1,7 +1,9 @@
 .app {
-    height: 1000px;
-    background: linear-gradient(to bottom right, rgba(188, 197, 215, 0.597), rgba(112, 115, 3, 0.593));
-    --twitter-color: #50b7f5;
-    --twitter-background: #e6ecf0;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    background-image: url('https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wEag?ver=1497');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
